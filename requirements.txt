@@ -1,0 +1,6 @@
+# Password Manager Dependencies
+# Core encryption library for secure password storage
+cryptography>=41.0.0
+
+# Table formatting library for CLI display
+tabulate>=0.9.0
