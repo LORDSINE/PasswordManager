@@ -2,23 +2,23 @@
 
 A secure, command-line password manager built with Python that uses strong encryption to protect your sensitive data.
 
-![CLI Password Manager](./images/clipassmanager.png)
+![CLI Password Manager](./vault/images/clipassmanager.png)
 
 ## Commands
 
 <div align="center">
 
 ### Add
-![Add Command](./images/add.png)
+![Add Command](./vault/images/add.png)
 
 ### Get
-![Get Command](./images/get.png)
+![Get Command](./vault/images/get.png)
 
 ### List
-![List Command](./images/list.png)
+![List Command](./vault/images/list.png)
 
 ### Delete
-![Delete Command](./images/delete.png)
+![Delete Command](./vault/images/delete.png)
 
 </div>
 
