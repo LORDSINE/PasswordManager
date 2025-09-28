@@ -1,4 +1,5 @@
 .env/
+.venv/
 
 #password and key storages
 vault.db
