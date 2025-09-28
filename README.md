@@ -45,12 +45,31 @@ A secure, command-line password manager built with Python that uses strong encry
    cd PasswordManager
    ```
 
-2. **Install dependencies**
+2. **Create and activate a virtual environment (recommended)**
+   
+   **On Windows:**
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate
+   ```
+   
+   **On macOS/Linux:**
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate
+   ```
+
+3. **Upgrade pip to latest version**
+   ```bash
+   python -m pip install --upgrade pip
+   ```
+
+4. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the password manager**
+5. **Run the password manager**
    ```bash
    python -m vault.cli
    ```
