@@ -1,0 +1,5 @@
+.env/
+
+#password and key storages
+vault.db
+vault.key
